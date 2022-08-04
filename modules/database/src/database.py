@@ -74,6 +74,13 @@ class Database(object):
         return quantitle
 
     def is_contain(self, id: int) -> bool:
+        """
+        Check data of given id in pool or not
+        Args:
+            id (Int)
+        Return:
+            Bool: True if poolId in pool, vice versa
+        """
         if id in self.pool:
             return True
         else:
