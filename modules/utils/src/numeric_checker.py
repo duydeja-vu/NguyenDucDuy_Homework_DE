@@ -60,8 +60,22 @@ def check_float_in_range(data: float, min: float, max: float) -> bool:
 
 
 def _sorted(data: list) -> list:
+    """
+    Sort a list
+    Args:
+        data (List)
+    Return:
+        List: List sorted
+    """
     return sorted(data)
 
 
 def _len(data: list) -> int:
+    """
+    Calculate len of a list
+    Args:
+        data (List)
+    Return:
+        int: Len of given list
+    """
     return len(data)
