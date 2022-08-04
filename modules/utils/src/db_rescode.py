@@ -1,0 +1,5 @@
+RES_ERR = -1
+
+# Write to database rescode
+RES_WRITE_SUCCESS_APPEND = 1
+RES_WRITE_SUCCESS_INSERTED = 2
