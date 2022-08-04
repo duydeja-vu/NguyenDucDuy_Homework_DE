@@ -13,9 +13,11 @@ This project contains source code and documentation for DE application.
 
 ## CLONE THIS PROJECT
 - 
-    > cd /home
+    > cd /home/
 
     > git clone https://github.com/duydeja-vu/NguyenDucDuy_Homework_DE.git
+
+    > sudo chmod 777 -R NguyenDucDuy_Homework_DE/
 
 ## EXPORT PYTHON PATH
 - 
